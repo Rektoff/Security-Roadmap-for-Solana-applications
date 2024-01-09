@@ -13,18 +13,21 @@ If you are looking to get a personalized security strategy developed for your So
 ----------------
 
 ### I. Design & Development stage
+
 - **Protocol Documentation**
   - Document the system’s Access Control / Privileges / Roles 
     - [https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/](https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/)
     - [https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/](https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/)
   - Document all external services, contracts and oracles your application relies on 
   - Document all of the potential attack vectors on your system
+    
 - **Organizational security**
   - ALWAYS conduct identity verification + background checks on all of your employees
     - [https://www.mandiant.com/resources/blog/lightshow-north-korea-unc2970](https://www.mandiant.com/resources/blog/lightshow-north-korea-unc2970)
   - Define a team member who will be responsible for security operations 
   - Conduct Social Engineering training and tests (remember, humans are often one the most vulnerable parts of any system)
     - [https://blog.knowbe4.com/cisco-web-3.0-will-be-the-next-frontier-for-social-engineering-and-phishing-attacks](https://blog.knowbe4.com/cisco-web-3.0-will-be-the-next-frontier-for-social-engineering-and-phishing-attacks)
+      
 - **DevSecOps pipeline + Operational Security**
   - Hardware keys for production systems
     - [https://www.yubico.com/ca/product/yubikey-5-series/yubikey-5c-nano/](https://www.yubico.com/ca/product/yubikey-5-series/yubikey-5c-nano/)
@@ -34,6 +37,7 @@ If you are looking to get a personalized security strategy developed for your So
     - Google security self-audit: [https://securityalliance.notion.site/Google-Security-Self-Audit-6718ff76812f4be5a0e62141c66fa5ec](https://securityalliance.notion.site/Google-Security-Self-Audit-6718ff76812f4be5a0e62141c66fa5ec)
   - Multi-person integrity security policy (MPC / Multisig) to eliminate single point of failure:
     - [https://squads.so/](https://squads.so/)
+      
 - **Internal security testing**
   - Automated Scanning
     - [https://www.sec3.dev/blog/how-to-audit-solana-smart-contracts-part-2-automated-scanning](https://www.sec3.dev/blog/how-to-audit-solana-smart-contracts-part-2-automated-scanning)
@@ -50,6 +54,7 @@ If you are looking to get a personalized security strategy developed for your So
 The pre-deployment stage is one of the most critical phases, during which teams often start to involve security partners, such as Rektoff, in their processes before launching. This stage requires intensive security practices, including multi-layered reviews, penetration & stress testing, and formal verification, to ensure everything is thoroughly solid for the mainnet and interactions with users.
 
 We recommend contacting us if you are looking to make security foundational and integrate it into every development stage. We provide full engineering lifecycle support with the best cybersecurity specialists from our distributed network. By efficiently managing your security procedures and leveraging our extensive experience, we alleviate your protocol challenges, allowing you to focus on building and accelerating your project.
+
 - **External Security Testing**
   - Choosing security providers & scheduling security review
   - Passing audit Readiness Checklist
@@ -62,6 +67,7 @@ We recommend contacting us if you are looking to make security foundational and 
   - Formal Verification
     - [https://osec.io/blog/2023-01-26-formally-verifying-solana-programs](https://osec.io/blog/2023-01-26-formally-verifying-solana-programs)
     - [https://medium.com/certora/formal-verification-of-solana-smart-contracts-2e57b960f953](https://medium.com/certora/formal-verification-of-solana-smart-contracts-2e57b960f953)
+      
 - **Security Review**
   - The most expert companies for Solana-based security reviews:
     - [Rektoff](https://www.rektoff.xyz/)
@@ -77,6 +83,7 @@ We recommend contacting us if you are looking to make security foundational and 
 The post-deployment stage is the time to improve, analyze, and prepare for emergent situations. It’s critically important to understand that no defensive solution can guarantee 100% protection of your blockchain software against hacker activities. Your team should be prepared to respond reactively to prevent disasters swiftly. Developing an Incident Response Plan (IRP), launching bug bounty (BB), and integrating advanced on-chain monitoring technology with supportive SOC analysts can significantly improve outcomes in the event of malicious incidents.
 
 You should never stop thinking about security. It is essentially a repetitive process. Even if your project has significantly evolved in reputational and operational maturity, continuous 24/7 analysis and monitoring remain mandatory.
+
 - Launching a bug bounty program
   - [https://consensys.io/diligence/blog/2023/06/why-your-web3-project-needs-a-bug-bounty-program/](https://consensys.io/diligence/blog/2023/06/why-your-web3-project-needs-a-bug-bounty-program/)
 - Incident Response Plan development
