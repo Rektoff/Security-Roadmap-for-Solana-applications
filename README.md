@@ -1,5 +1,5 @@
 # Solana dApp Security Roadmap
-### Security SoK(Systematization of Knowledge) for Solana blockchain
+### Security SoK(Systematization of Knowledge) for Solana applications
 
 We decided to create a special cybersecurity Systematization of Knowledge for Solana applications and protocols. We call it the Solana Security Strategy: such a database would be hugely beneficial for anyone who wants to secure their product and learn security from the best-collected resources.
 
