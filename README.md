@@ -64,7 +64,7 @@ We recommend contacting us if you are looking to make security foundational and 
     - [https://medium.com/certora/formal-verification-of-solana-smart-contracts-2e57b960f953](https://medium.com/certora/formal-verification-of-solana-smart-contracts-2e57b960f953)
 - **Security Review**
   - The most expert companies for Solana-based security reviews:
-    - (Rektoff)[https://www.rektoff.xyz/]
+    - [Rektoff](https://www.rektoff.xyz/)
     - Sec3
     - Zellic
     - Ackee Blockchain
