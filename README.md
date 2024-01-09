@@ -26,7 +26,6 @@ If you are looking to get a personalized security strategy developed for your So
   - Conduct Social Engineering training and tests (remember, humans are often one the most vulnerable parts of any system)
     - [https://blog.knowbe4.com/cisco-web-3.0-will-be-the-next-frontier-for-social-engineering-and-phishing-attacks](https://blog.knowbe4.com/cisco-web-3.0-will-be-the-next-frontier-for-social-engineering-and-phishing-attacks)
 - **DevSecOps pipeline + Operational Security**
-  - Key management
   - Hardware keys for production systems
     - [https://www.yubico.com/ca/product/yubikey-5-series/yubikey-5c-nano/](https://www.yubico.com/ca/product/yubikey-5-series/yubikey-5c-nano/)
   - Secure your system against sim-swap attacks:
