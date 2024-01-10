@@ -40,6 +40,8 @@ If you are looking to get a personalized security strategy developed for your So
     - Google security self-audit: [https://securityalliance.notion.site/Google-Security-Self-Audit-6718ff76812f4be5a0e62141c66fa5ec](https://securityalliance.notion.site/Google-Security-Self-Audit-6718ff76812f4be5a0e62141c66fa5ec)
   - Multi-person integrity security policy (MPC / Multisig) to eliminate single point of failure:
     - [https://squads.so/](https://squads.so/)
+  - Solana Assets Security:
+    - (DefiHacksLabs Exploring Solana: A Comprehensive Guide to Accounts, Tokens, Transactions, and Ensuring Asset Security)(https://defihacklabs.substack.com/p/exploring-solana-a-comprehensive)
       
 - **Internal security testing**
   - Automated Scanning
