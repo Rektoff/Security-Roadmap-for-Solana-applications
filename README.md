@@ -35,13 +35,14 @@ If you are looking to get a personalized security strategy developed for your So
   - Hardware keys for production systems
     - [https://www.yubico.com/ca/product/yubikey-5-series/yubikey-5c-nano/](https://www.yubico.com/ca/product/yubikey-5-series/yubikey-5c-nano/)
   - Secure your system against sim-swap attacks:
+    - [Discord security by OfficerCIA](https://officercia.mirror.xyz/x4nGX6YwhhmHj8TaQ53kBR5b5M1Ei_Y9_l1Vpext-Hk)
     - [Twitter security self-audit](https://securityalliance.notion.site/Twitter-Security-Self-Audit-8fdb80d93a144dbab0f0cc4ff59c2131)
     - [Telegram security self-audit](https://securityalliance.notion.site/Telegram-Security-Self-Audit-863507aa2ea84360be8e6f30c61e6b0d)
     - [Google security self-audit](https://securityalliance.notion.site/Google-Security-Self-Audit-6718ff76812f4be5a0e62141c66fa5ec)
   - Multi-person integrity security policy (MPC / Multisig) to eliminate single point of failure:
     - [https://squads.so/](https://squads.so/)
   - Solana Assets Security:
-    - [DefiHacksLabs Exploring Solana: A Comprehensive Guide to Accounts, Tokens, Transactions, and Ensuring Asset Security](https://defihacklabs.substack.com/p/exploring-solana-a-comprehensive)
+    - [Slowmist Exploring Solana: A Comprehensive Guide to Accounts, Tokens, Transactions, and Ensuring Asset Security](https://defihacklabs.substack.com/p/exploring-solana-a-comprehensive)
       
 - **Internal security testing**
   - Automated Scanning
