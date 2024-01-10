@@ -35,9 +35,9 @@ If you are looking to get a personalized security strategy developed for your So
   - Hardware keys for production systems
     - [https://www.yubico.com/ca/product/yubikey-5-series/yubikey-5c-nano/](https://www.yubico.com/ca/product/yubikey-5-series/yubikey-5c-nano/)
   - Secure your system against sim-swap attacks:
-    - Twitter security self-audit: [https://securityalliance.notion.site/Twitter-Security-Self-Audit-8fdb80d93a144dbab0f0cc4ff59c2131](https://securityalliance.notion.site/Twitter-Security-Self-Audit-8fdb80d93a144dbab0f0cc4ff59c2131)
-    - Telegram security self-audit: [https://securityalliance.notion.site/Telegram-Security-Self-Audit-863507aa2ea84360be8e6f30c61e6b0d](https://securityalliance.notion.site/Telegram-Security-Self-Audit-863507aa2ea84360be8e6f30c61e6b0d)
-    - Google security self-audit: [https://securityalliance.notion.site/Google-Security-Self-Audit-6718ff76812f4be5a0e62141c66fa5ec](https://securityalliance.notion.site/Google-Security-Self-Audit-6718ff76812f4be5a0e62141c66fa5ec)
+    - [Twitter security self-audit](https://securityalliance.notion.site/Twitter-Security-Self-Audit-8fdb80d93a144dbab0f0cc4ff59c2131)
+    - [Telegram security self-audit](https://securityalliance.notion.site/Telegram-Security-Self-Audit-863507aa2ea84360be8e6f30c61e6b0d)
+    - [Google security self-audit](https://securityalliance.notion.site/Google-Security-Self-Audit-6718ff76812f4be5a0e62141c66fa5ec)
   - Multi-person integrity security policy (MPC / Multisig) to eliminate single point of failure:
     - [https://squads.so/](https://squads.so/)
   - Solana Assets Security:
