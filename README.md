@@ -8,17 +8,17 @@ We decided to create a special cybersecurity Systematization of Knowledge for So
 
 If you are looking to get a personalized security strategy developed for your Solana application- schedule a meeting with [Rektoff](https://www.rektoff.xyz/) today: [https://app.reclaim.ai/m/gregory-makodzeba/flexible-meeting](https://app.reclaim.ai/m/gregory-makodzeba/flexible-meeting)
 
-### We’ve mapped the cybersecurity strategy into 3 main stages:
-1. ## **Design & Development stage**
-2. ## **Pre-deployment / Testnet stage**
-3. ## **Post-deployment / Monitoring stage**
+### We've mapped the cybersecurity strategy into 3 main stages:
+1. ## [**Design & Development stage**](#i-design--development-stage)
+2. ## [**Pre-deployment / Testnet stage**](#ii-pre-deployment--testnet-stage)
+3. ## [**Post-deployment / Monitoring stage**](#iii-post-deployment--monitoring-stage)
 
 ----------------
 
 ### I. Design & Development stage
 
 - **Protocol Documentation**
-  - Document the system’s Access Control / Privileges / Roles 
+  - Document the system's Access Control / Privileges / Roles 
     - [https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/](https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/)
     - [https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/](https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/)
   - Document all external services, contracts and oracles your application relies on 
@@ -86,7 +86,7 @@ We recommend contacting us if you are looking to make security foundational and 
     - Kudelski Security
 
 ### III. Post-deployment / Monitoring stage
-The post-deployment stage is the time to improve, analyze, and prepare for emergent situations. It’s critically important to understand that no defensive solution can guarantee 100% protection of your blockchain software against hacker activities. Your team should be prepared to respond reactively to prevent disasters swiftly. Developing an Incident Response Plan (IRP), launching bug bounty (BB), and integrating advanced on-chain monitoring technology with supportive SOC analysts can significantly improve outcomes in the event of malicious incidents.
+The post-deployment stage is the time to improve, analyze, and prepare for emergent situations. It's critically important to understand that no defensive solution can guarantee 100% protection of your blockchain software against hacker activities. Your team should be prepared to respond reactively to prevent disasters swiftly. Developing an Incident Response Plan (IRP), launching bug bounty (BB), and integrating advanced on-chain monitoring technology with supportive SOC analysts can significantly improve outcomes in the event of malicious incidents.
 
 You should never stop thinking about security. It is essentially a repetitive process. Even if your project has significantly evolved in reputational and operational maturity, continuous 24/7 analysis and monitoring remain mandatory.
 
