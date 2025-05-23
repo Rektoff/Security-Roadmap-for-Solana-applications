@@ -1,12 +1,13 @@
 # Solana dApp Security Roadmap
-### Security SoK(Systematization of Knowledge) for Solana applications
+
+### Security Roadmap for Solana applications
 
 ![Group 48096155](https://github.com/Rektoff/Security-SoK-for-Solana-blockchain-/assets/144442822/cb98a230-3f65-4173-9b7c-eba843cb567b)
 
 
-We decided to create a special cybersecurity Systematization of Knowledge for Solana applications and protocols. We call it the Solana Security Strategy: such a database would be hugely beneficial for anyone who wants to secure their product and learn security from the best-collected resources.
+We created a special cybersecurity Systematization of Knowledge for Solana applications and protocols. We call it the Solana Security Strategy: such a database would be hugely beneficial for anyone who wants to secure their product and learn security from the best-collected resources.
 
-If you are looking for personalized security training for your team - schedule a meeting with [Rektoff](https://www.rektoff.xyz/) today: [https://cal.com/gregory-makodzeba/](https://cal.com/gregory-makodzeba/)
+If you are looking for personalized security training for your team, schedule a meeting with [Rektoff](https://www.rektoff.xyz/) today: [https://cal.com/gregory-makodzeba/](https://cal.com/gregory-makodzeba/)
 
 ### We've mapped the cybersecurity strategy into 3 main stages:
 1. ## [**Design & Development stage**](#i-design--development-stage)
