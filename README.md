@@ -76,7 +76,8 @@ We recommend contacting us if you are looking to make security foundational and 
       
 - **Security Review**
   - The most expert companies for Solana-based security reviews:
-    - [Rektoff](https://www.rektoff.xyz/)
+    - Rektoff
+    - Neodyme
     - Sec3
     - Zellic
     - Ackee Blockchain
