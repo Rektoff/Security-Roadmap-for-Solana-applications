@@ -215,7 +215,4 @@ In the case of Solana, we have the opportunity to redefine DevOps processes and 
 
 DM us to schedule an Onboarding Security Test and consultation, and refer to the information provided below for more details about our solutions:
 
-Stay [Rektoff](https://linktree.com/rektoff)!
-
-
-Stay Rektoff!
+Stay [Rektoff](https://linktree.com/rektoff).
