@@ -1,7 +1,5 @@
 # Solana dApp Security Roadmap
 
-### Security Roadmap for Solana applications
-
 ![Group 48096155](https://github.com/Rektoff/Security-SoK-for-Solana-blockchain-/assets/144442822/cb98a230-3f65-4173-9b7c-eba843cb567b)
 
 
