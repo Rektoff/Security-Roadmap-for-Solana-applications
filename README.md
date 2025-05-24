@@ -1,14 +1,13 @@
 # Solana dApp Security Roadmap
-### Security SoK(Systematization of Knowledge) for Solana applications
 
 ![Group 48096155](https://github.com/Rektoff/Security-SoK-for-Solana-blockchain-/assets/144442822/cb98a230-3f65-4173-9b7c-eba843cb567b)
 
 
-We decided to create a special cybersecurity Systematization of Knowledge for Solana applications and protocols. We call it the Solana Security Strategy: such a database would be hugely beneficial for anyone who wants to secure their product and learn security from the best-collected resources.
+We created a special cybersecurity Systematization of Knowledge for Solana applications and protocols. We call it the Solana Security Strategy: a database that would be hugely beneficial for anyone who wants to secure their product and learn how to approach security strategy from the best-collected resources.
 
-If you are looking to get a personalized security strategy developed for your Solana application- schedule a meeting with [Rektoff](https://www.rektoff.xyz/) today: [https://app.reclaim.ai/m/gregory-makodzeba/flexible-meeting](https://app.reclaim.ai/m/gregory-makodzeba/flexible-meeting)
+If you are looking to get a personalized security roadmap developed for your Solana application - schedule a meeting with [Rektoff](https://www.rektoff.xyz/) today: [https://cal.com/gregory-makodzeba](https://cal.com/gregory-makodzeba)
 
-### We've mapped the cybersecurity strategy into 3 main stages:
+### We've mapped security strategy into 3 main stages:
 1. ## [**Design & Development stage**](#i-design--development-stage)
 2. ## [**Pre-deployment / Testnet stage**](#ii-pre-deployment--testnet-stage)
 3. ## [**Post-deployment / Monitoring stage**](#iii-post-deployment--monitoring-stage)
@@ -18,7 +17,7 @@ If you are looking to get a personalized security strategy developed for your So
 ### I. Design & Development stage
 
 - **Protocol Documentation**
-  - Document the system's Access Control / Privileges / Roles 
+  - Document System's Access Control / Privileges / Roles 
     - [https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/](https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/)
     - [https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/](https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/)
   - Document all external services, contracts and oracles your application relies on 
@@ -28,7 +27,7 @@ If you are looking to get a personalized security strategy developed for your So
   - ALWAYS conduct identity verification + background checks on all of your employees
     - [https://www.mandiant.com/resources/blog/lightshow-north-korea-unc2970](https://www.mandiant.com/resources/blog/lightshow-north-korea-unc2970)
   - Define a team member who will be responsible for security operations 
-  - Conduct Social Engineering training and tests (remember, humans are often one the most vulnerable parts of any system)
+  - Conduct Social Engineering training and tests (remember, humans are often one of the most vulnerable parts of any system)
     - [https://blog.knowbe4.com/cisco-web-3.0-will-be-the-next-frontier-for-social-engineering-and-phishing-attacks](https://blog.knowbe4.com/cisco-web-3.0-will-be-the-next-frontier-for-social-engineering-and-phishing-attacks)
       
 - **DevSecOps pipeline + Operational Security**
@@ -40,7 +39,7 @@ If you are looking to get a personalized security strategy developed for your So
     - [Telegram security self-audit](https://securityalliance.notion.site/Telegram-Security-Self-Audit-863507aa2ea84360be8e6f30c61e6b0d)
     - [Google security self-audit](https://securityalliance.notion.site/Google-Security-Self-Audit-6718ff76812f4be5a0e62141c66fa5ec)
   - Multi-person integrity security policy (MPC / Multisig) to eliminate single point of failure:
-    - [https://squads.so/](https://squads.so/)
+    - [https://squads.xyz/squads-multisig](https://squads.xyz/squads-multisig)
   - Solana Assets Security:
     - [Slowmist Exploring Solana: A Comprehensive Guide to Accounts, Tokens, Transactions, and Ensuring Asset Security](https://defihacklabs.substack.com/p/exploring-solana-a-comprehensive)
       
@@ -76,8 +75,9 @@ We recommend contacting us if you are looking to make security foundational and 
       
 - **Security Review**
   - The most expert companies for Solana-based security reviews:
-    - [Rektoff](https://www.rektoff.xyz/)
+    - Rektoff
     - Sec3
+    - Neodyme
     - Zellic
     - Ackee Blockchain
     - OtterSec
@@ -96,7 +96,7 @@ You should never stop thinking about security. It is essentially a repetitive pr
   - [https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.mu60v0fbgnvg](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.mu60v0fbgnvg)
 - Onchain Monitoring integration + SOC center 24/7 support 
   - [https://www.sec3.dev/watchtower](https://www.sec3.dev/watchtower)
-- On-going security reviews and verifications for each new update/integration
+- Ongoing security reviews and verifications for each new update/integration
 
 ### Strengthening:
 
