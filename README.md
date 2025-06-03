@@ -21,14 +21,17 @@ If you are looking to get a personalized security roadmap developed for your Sol
     - [https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/](https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/)
     - [https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/](https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/)
   - Document all external services, contracts and oracles your application relies on 
-  - Document all of the potential attack vectors on your system
+  - Document all of the potential attack vectors on your system, explicitly noting that Solana allows arbitrary accounts in transactions, significantly increasing risk
+  - Ensure comprehensive validation checks, especially:
+      - Account ownership, signer verification, account type and data integrity
     
 - **Organizational security**
   - ALWAYS conduct identity verification + background checks on all of your employees
     - [https://www.mandiant.com/resources/blog/lightshow-north-korea-unc2970](https://www.mandiant.com/resources/blog/lightshow-north-korea-unc2970)
   - Define a team member who will be responsible for security operations 
-  - Conduct Social Engineering training and tests (remember, humans are often one of the most vulnerable parts of any system)
-    - [https://blog.knowbe4.com/cisco-web-3.0-will-be-the-next-frontier-for-social-engineering-and-phishing-attacks](https://blog.knowbe4.com/cisco-web-3.0-will-be-the-next-frontier-for-social-engineering-and-phishing-attacks)
+  - [Conduct Social Engineering training and tests (remember, humans are often one of the most vulnerable parts of any system)](https://hoxhunt.com/blog/social-engineering-training)
+    - [Top 7 Social Engineering Frauds in Crypto](https://hacken.io/discover/top-7-social-engineering-frauds-in-crypto/)
+    - [Train engineers on Solana-specific threats](https://ackee.xyz/solana-auditors-bootcamp) 
       
 - **DevSecOps pipeline + Operational Security**
   - Hardware keys for production systems
@@ -47,7 +50,7 @@ If you are looking to get a personalized security roadmap developed for your Sol
   - Automated Scanning
     - [https://www.sec3.dev/blog/how-to-audit-solana-smart-contracts-part-2-automated-scanning](https://www.sec3.dev/blog/how-to-audit-solana-smart-contracts-part-2-automated-scanning)
   - Solana Fuzz testing
-    - [https://github.com/Ackee-Blockchain/trdelnik](https://github.com/Ackee-Blockchain/trdelnik)
+    - [https://github.com/Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident)
     - [https://github.com/rust-fuzz/honggfuzz-rs#how-to-use-this-crate](https://github.com/rust-fuzz/honggfuzz-rs#how-to-use-this-crate)
     - [https://docs.ziion.org/discover-the-tools/rust-fuzzers](https://docs.ziion.org/discover-the-tools/rust-fuzzers)
     - [https://www.youtube.com/watch?v=8E7XOHQiRPE](https://www.youtube.com/watch?v=8E7XOHQiRPE)
