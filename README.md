@@ -5,7 +5,7 @@
 
 We created a special cybersecurity Systematization of Knowledge for Solana applications and protocols. We call it the Solana Security Strategy: a database that would be hugely beneficial for anyone who wants to secure their product and learn how to approach security strategy from the best-collected resources.
 
-If you are looking to get a personalized security roadmap developed for your Solana application - schedule a meeting with [Rektoff](https://www.rektoff.xyz/) today: [https://cal.com/gregory-makodzeba](https://cal.com/gregory-makodzeba)
+If you are looking to get a personalized security roadmap developed for your Solana application - schedule a meeting with [Rektoff](https://www.rektoff.xyz/) today: [https://cal.com/rektoff](https://cal.com/rektoff)
 
 ### We've mapped security strategy into 3 main stages:
 1. ## [**Design & Development stage**](#i-design--development-stage)
