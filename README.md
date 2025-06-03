@@ -62,25 +62,26 @@ We recommend contacting us if you are looking to make security foundational and 
 
 - **External Security Testing**
   - Choosing security providers & scheduling security review
-  - Passing audit Readiness Checklist
+  - [Passing Audit Readiness Checklist](https://amp.runtimeverification.com/readiness-guide)
   - Fuzzing as a service
-    - [https://arxiv.org/pdf/2309.03006v2.pdf](https://arxiv.org/pdf/2309.03006v2.pdf)
-    - [https://github.com/Ackee-Blockchain/trdelnik](https://github.com/Ackee-Blockchain/trdelnik)
+    - [E.g., https://github.com/Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident)
   - Passing an audit contest
   - Web app audit / pentesting
   - Stress Testing
   - Formal Verification
+    - [Certora Solana Prover](https://docs.certora.com/en/latest/docs/solana/index.html)
     - [https://osec.io/blog/2023-01-26-formally-verifying-solana-programs](https://osec.io/blog/2023-01-26-formally-verifying-solana-programs)
     - [https://medium.com/certora/formal-verification-of-solana-smart-contracts-2e57b960f953](https://medium.com/certora/formal-verification-of-solana-smart-contracts-2e57b960f953)
       
 - **Security Review**
   - The most expert companies for Solana-based security reviews:
-    - Rektoff
-    - Sec3
+    - Rektoff (security strategy and training provider)
+    - Runtime Verification
+    - OtterSec
     - Neodyme
+    - Sec3
     - Zellic
     - Ackee Blockchain
-    - OtterSec
     - Hexens
     - Trail of Bits
     - Kudelski Security
@@ -91,12 +92,13 @@ The post-deployment stage is the time to improve, analyze, and prepare for emerg
 You should never stop thinking about security. It is essentially a repetitive process. Even if your project has significantly evolved in reputational and operational maturity, continuous 24/7 analysis and monitoring remain mandatory.
 
 - Launching a bug bounty program
-  - [https://consensys.io/diligence/blog/2023/06/why-your-web3-project-needs-a-bug-bounty-program/](https://consensys.io/diligence/blog/2023/06/why-your-web3-project-needs-a-bug-bounty-program/)
+  - [Why your web3 project needs a bug bounty program](https://consensys.io/diligence/blog/2023/06/why-your-web3-project-needs-a-bug-bounty-program/)
+  - [How to get started with bug bounties by OWASP](https://owasp.org/www-chapter-czech-republic/slides/Getting_Started_with_Bug_Bounty.pdf)
 - Incident Response Plan development
-  - [https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.mu60v0fbgnvg](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.mu60v0fbgnvg)
+  - [Crisis Handbook during smart contract hacks](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.mu60v0fbgnvg)
 - Onchain Monitoring integration + SOC center 24/7 support 
-  - [https://www.sec3.dev/watchtower](https://www.sec3.dev/watchtower)
-- Ongoing security reviews and verifications for each new update/integration
+  - [Watchtower by Sec3](https://www.sec3.dev/watchtower)
+- Ongoing security reviews and formal verification for each new update/integration
 
 ### Strengthening:
 
