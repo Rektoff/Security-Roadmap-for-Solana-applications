@@ -17,26 +17,29 @@ If you are looking to get a personalized security roadmap developed for your Sol
 ### I. Design & Development stage
 
 - **Protocol Documentation**
-  - Document System's Access Control / Privileges / Roles 
+  Solana’s account-based programming model introduces unique attack surfaces where malicious actors can inject arbitrary accounts into transactions. Comprehensive protocol documentation must explicitly:
+  - Map all privileged roles and their associated permissions
     - [https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/](https://blog.trailofbits.com/2023/08/14/can-you-pass-the-rekt-test/)
     - [https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/](https://research.kudelskisecurity.com/2021/09/15/solana-program-security-part1/)
-  - Document all external services, contracts and oracles your application relies on 
-  - Document all of the potential attack vectors on your system, explicitly noting that Solana allows arbitrary accounts in transactions, significantly increasing risk
-  - Ensure comprehensive validation checks, especially:
-      - Account ownership, signer verification, account type and data integrity
+  - Identify and list dependencies on external services (e.g., price oracles, cross-chain bridges)
+  - Specify validation checks for:
+      - Account ownership via AccountInfo::is_signer
+      - Data structure integrity using Anchor’s type constraints
+      - Cross-program invocation (CPI) authority delegation risks
     
 - **Organizational security**
   - ALWAYS conduct identity verification + background checks on all of your employees
-    - [https://www.mandiant.com/resources/blog/lightshow-north-korea-unc2970](https://www.mandiant.com/resources/blog/lightshow-north-korea-unc2970)
+    - [https://www.trmlabs.com/resources/blog/doj-seeks-forfeiture-of-7-7-million-in-cryptocurrency-tied-to-north-korean-it-worker-laundering-network](https://www.trmlabs.com/resources/blog/doj-seeks-forfeiture-of-7-7-million-in-cryptocurrency-tied-to-north-korean-it-worker-laundering-network)
   - Define a team member who will be responsible for security operations 
-  - [Conduct Social Engineering training and tests (remember, humans are often one of the most vulnerable parts of any system)](https://hoxhunt.com/blog/social-engineering-training)
+  - [Conduct Social Engineering resistance training and tests with simulated phishing campaigns (remember, humans are often one of the most vulnerable parts of any system)](https://hoxhunt.com/blog/social-engineering-training)
     - [Top 7 Social Engineering Frauds in Crypto](https://hacken.io/discover/top-7-social-engineering-frauds-in-crypto/)
+    - [How Social Engineering Attack led to $600M+ in losses](https://rekt.news/big-phish)
     - [Train engineers on Solana-specific threats](https://ackee.xyz/solana-auditors-bootcamp) 
       
 - **DevSecOps pipeline + Operational Security**
   - Hardware keys for production systems
     - [https://www.yubico.com/ca/product/yubikey-5-series/yubikey-5c-nano/](https://www.yubico.com/ca/product/yubikey-5-series/yubikey-5c-nano/)
-  - Secure your system against sim-swap attacks:
+  - Secure your social media accounts against sim-swap and other attacks:
     - [Discord security by OfficerCIA](https://officercia.mirror.xyz/x4nGX6YwhhmHj8TaQ53kBR5b5M1Ei_Y9_l1Vpext-Hk)
     - [Twitter security self-audit](https://securityalliance.notion.site/Twitter-Security-Self-Audit-8fdb80d93a144dbab0f0cc4ff59c2131)
     - [Telegram security self-audit](https://securityalliance.notion.site/Telegram-Security-Self-Audit-863507aa2ea84360be8e6f30c61e6b0d)
@@ -54,14 +57,15 @@ If you are looking to get a personalized security roadmap developed for your Sol
     - [https://github.com/rust-fuzz/honggfuzz-rs#how-to-use-this-crate](https://github.com/rust-fuzz/honggfuzz-rs#how-to-use-this-crate)
     - [https://docs.ziion.org/discover-the-tools/rust-fuzzers](https://docs.ziion.org/discover-the-tools/rust-fuzzers)
     - [https://www.youtube.com/watch?v=8E7XOHQiRPE](https://www.youtube.com/watch?v=8E7XOHQiRPE)
+    - The [Helius security guide](https://www.helius.dev/blog/a-hitchhikers-guide-to-solana-program-security) emphasizes boundary condition testing for program-derived addresses (PDAs), as incorrect find_program_address usage can lead to seed collisions. Implement fuzz testing early using tools like [Trident](https://github.com/Ackee-Blockchain/trident) to simulate adversarial inputs
   - other SAST / DAST on every commit
     - [https://docs.ziion.org/discover-the-tools/rust-tools](https://docs.ziion.org/discover-the-tools/rust-tools)
     - [https://docs.ziion.org/discover-the-tools/rust-automated-tools](https://docs.ziion.org/discover-the-tools/rust-automated-tools)
 
 ### II. Pre-deployment / Testnet stage
-The pre-deployment stage is one of the most critical phases, during which teams often start to involve security partners, such as Rektoff, in their processes before launching. This stage requires intensive security practices, including multi-layered reviews, penetration & stress testing, and formal verification, to ensure everything is thoroughly solid for the mainnet and interactions with users.
+The pre-deployment stage is a pivotal checkpoint in a protocol’s journey to mainnet. It’s the point where theoretical risks meet practical implementation. Where undetected flaws can become multimillion-dollar vulnerabilities. At this stage, security should be proactive, layered, and aligned with the protocol’s architecture. This includes threat modeling, fuzzing campaigns, formal verification, and security reviews. Rather than relying on a last-minute audit alone, teams should design security into their development cycle, ensuring their system is resilient before it ever touches users or capital. 
 
-We recommend contacting us if you are looking to make security foundational and integrate it into every development stage. We provide full engineering lifecycle support with the best cybersecurity specialists from our distributed network. By efficiently managing your security procedures and leveraging our extensive experience, we alleviate your protocol challenges, allowing you to focus on building and accelerating your project.
+If you're aiming to embed security into every stage of your development lifecycle, we encourage you to [reach out](https://cal.com/rektoff). Our distributed network of top-tier security engineers offers comprehensive support across the entire engineering process. By streamlining your security strategy and applying our deep experience, we help reduce operational risk, so your team can stay focused on building and scaling with confidence.
 
 - **External Security Testing**
   - Choosing security providers & scheduling security review
