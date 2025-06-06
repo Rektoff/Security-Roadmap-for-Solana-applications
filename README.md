@@ -68,11 +68,11 @@ The pre-deployment stage is a pivotal checkpoint in a protocol’s journey to ma
 If you're aiming to embed security into every stage of your development lifecycle, we encourage you to [reach out](https://cal.com/rektoff). Our distributed network of top-tier security engineers offers comprehensive support across the entire engineering process. By streamlining your security strategy and applying our deep experience, we help reduce operational risk, so your team can stay focused on building and scaling with confidence.
 
 - **External Security Testing**
-  - Choosing security providers & scheduling security review
-  - [Passing Audit Readiness Checklist](https://amp.runtimeverification.com/readiness-guide)
+  - Begin scheduling security reviews at least 8 weeks before your planned launch date
+  - Keep in mind: the effectiveness of a security audit is directly tied to your audit readiness. To get the most value from the review, we strongly recommend [passing an audit readiness checklist](https://amp.runtimeverification.com/readiness-guide) beforehand
   - Fuzzing as a service
     - [E.g., https://github.com/Ackee-Blockchain/trident](https://github.com/Ackee-Blockchain/trident)
-  - Passing an audit contest
+  - Schedule an audit contest
   - Web app audit / pentesting
   - Stress Testing
   - Formal Verification
@@ -81,8 +81,7 @@ If you're aiming to embed security into every stage of your development lifecycl
     - [https://medium.com/certora/formal-verification-of-solana-smart-contracts-2e57b960f953](https://medium.com/certora/formal-verification-of-solana-smart-contracts-2e57b960f953)
       
 - **Security Review**
-  - The most expert companies for Solana-based security reviews:
-    - Rektoff (security strategy and training provider)
+  - The most expert teams for Solana-based security reviews:
     - Runtime Verification
     - OtterSec
     - Neodyme
