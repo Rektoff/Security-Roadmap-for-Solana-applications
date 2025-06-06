@@ -17,7 +17,7 @@ We've mapped security strategy into 3 main stages:
 
 ---
 
-⚫️ ##  I. Design & Development Stage
+## ⚫️ I. Design & Development Stage
 
 ### Protocol Documentation
 
