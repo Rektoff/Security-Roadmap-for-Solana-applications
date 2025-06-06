@@ -77,8 +77,7 @@ Solana's account-based programming model introduces unique attack surfaces where
   - The [Helius Security Guide](https://www.helius.dev/blog/a-hitchhikers-guide-to-solana-program-security) emphasizes boundary condition testing for program-derived addresses (PDAs), as incorrect `find_program_address` usage can lead to seed collisions. Implement fuzz testing early using tools like [Trident](https://github.com/Ackee-Blockchain/trident) to simulate adversarial inputs
 
 - **Other SAST / DAST on every commit**
-  - [Rust Tools](https://docs.ziion.org/discover-the-tools/rust-tools)
-  - [Rust Automated Tools](https://docs.ziion.org/discover-the-tools/rust-automated-tools)
+  - [Rust Tools](https://docs.ziion.org/discover-the-tools/rust-tools) and [Automated Tools](https://docs.ziion.org/discover-the-tools/rust-automated-tools)
 
 ---
 
