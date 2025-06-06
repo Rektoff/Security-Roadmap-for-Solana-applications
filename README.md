@@ -12,8 +12,8 @@ If you are looking to get a personalized security roadmap developed for your Sol
 We've mapped security strategy into 3 main stages:
 
 1. [**Design & Development Stage**](#%EF%B8%8F-i-design--development-stage)
-2. [**Pre-deployment / Testnet Stage**](#%EF%B8%8F-ii-pre-deployment-testnet-stage)
-3. [**Post-deployment / Monitoring Stage**](#%EF%B8%8F-iii-post-deployment-monitoring-stage)
+2. [**Pre-deployment / Testnet Stage**](#%EF%B8%8F-ii-pre-deployment--testnet-stage)
+3. [**Post-deployment / Monitoring Stage**](#%EF%B8%8F-iii-post-deployment--monitoring-stage)
 
 ---
 
