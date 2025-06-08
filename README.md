@@ -50,7 +50,8 @@ Solana's account-based programming model introduces unique attack surfaces where
 ### DevSecOps Pipeline + Operational Security
 
 - **Hardware keys for production systems**
-  - [YubiKey 5C Nano](https://www.yubico.com/ca/product/yubikey-5-series/yubikey-5c-nano/)
+  - [Best Hardware Securit Keys](https://www.pcmag.com/picks/best-hardware-security-keys)
+  - Use Semi-Airgapped Device (This explainw what an airgap device is: [AIRGAP Device](https://bitcoinmagazine.com/technical/why-use-an-air-gapped-computer-bitcoin)) - A Semi-Airgapped device is a device that can connect to network when needed and that does not have any app installed other than the ones intended for production work.
 
 - **Secure your social media accounts against sim-swap and other attacks:**
   - [Discord Security by OfficerCIA](https://officercia.mirror.xyz/x4nGX6YwhhmHj8TaQ53kBR5b5M1Ei_Y9_l1Vpext-Hk)
@@ -111,16 +112,19 @@ If you're aiming to embed security into every stage of your development lifecycl
 
 **The most expert teams for Solana-based security reviews:**
 
-- Runtime Verification
-- OtterSec
-- Neodyme
-- Sec3
-- Zellic
-- Ackee Blockchain
-- Hexens
-- Trail of Bits
-- Kudelski Security
-
+- [Runtime Verification](https://runtimeverification.com/)
+- [OtterSec](https://osec.io/)
+- [Neodyme](https://neodyme.io/en/)
+- [Sec3](https://www.sec3.dev/)
+- [Zellic](https://www.zellic.io/)
+- [Ackee Blockchain](https://ackee.xyz/)
+- [Hexens](https://hexens.io/)
+- [Trail of Bits](https://www.trailofbits.com/)
+- [Kudelski Security](https://kudelskisecurity.com/)
+- [Cantina](https://cantina.xyz/)
+- [Certora](https://www.certora.com/)
+- [Sherlock](https://www.sherlock.xyz/)
+  
 ---
 
 ## ⚫️ III. Post-deployment / Monitoring Stage
@@ -136,7 +140,7 @@ You should never stop thinking about security. It is essentially a repetitive pr
   - [How to get started with bug bounties by OWASP](https://owasp.org/www-chapter-czech-republic/slides/Getting_Started_with_Bug_Bounty.pdf)
 
 - **Incident Response Plan development**
-  - [Crisis Handbook during smart contract hacks](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.mu60v0fbgnvg)
+  - [Crisis Handbook during smart contract hacks](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.mu60v0fbgnvg) - This was tailored for EVM but most of them work for Solana as well.
 
 - **Onchain Monitoring integration + SOC center 24/7 support**
   - [Watchtower by Sec3](https://www.sec3.dev/watchtower)
