@@ -140,7 +140,7 @@ You should never stop thinking about security. It is essentially a repetitive pr
   - [How to get started with bug bounties by OWASP](https://owasp.org/www-chapter-czech-republic/slides/Getting_Started_with_Bug_Bounty.pdf)
 
 - **Incident Response Plan development**
-  - [Crisis Handbook during smart contract hacks](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.mu60v0fbgnvg) - This was tailored for EVM but most of the 
+  - [Crisis Handbook during smart contract hacks](https://docs.google.com/document/d/1DaAiuGFkMEMMiIuvqhePL5aDFGHJ9Ya6D04rdaldqC0/edit#heading=h.mu60v0fbgnvg) - This was tailored for EVM but most of them work for Solana as well.
 
 - **Onchain Monitoring integration + SOC center 24/7 support**
   - [Watchtower by Sec3](https://www.sec3.dev/watchtower)
