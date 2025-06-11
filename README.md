@@ -40,7 +40,7 @@ Solana's account-based programming model introduces unique attack surfaces where
   - [DOJ Seeks Forfeiture of $7.7 Million in Cryptocurrency Tied to North Korean IT Worker Laundering Network](https://www.trmlabs.com/resources/blog/doj-seeks-forfeiture-of-7-7-million-in-cryptocurrency-tied-to-north-korean-it-worker-laundering-network)
 
 - **Define a team member who will be responsible for security operations**
-  - [Train them in Rust & Solana security: a free 6-week bootcamp by Rektoff & Solana Foundation — limited spots, apply early](https://www.rektoff.xyz/bootcamp) 
+  - [Train them in Rust & Solana security: a free 6-week bootcamp by Rektoff, supported by Solana Foundation — limited spots, apply early](https://www.rektoff.xyz/bootcamp) 
 
 - **Conduct Social Engineering resistance training and tests with simulated phishing campaigns** (remember, humans are often one of the most vulnerable parts of any system)
   - [Social Engineering Training](https://hoxhunt.com/blog/social-engineering-training)
