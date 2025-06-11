@@ -3,7 +3,7 @@
 ![Group 48096155](https://github.com/Rektoff/Security-SoK-for-Solana-blockchain-/assets/144442822/cb98a230-3f65-4173-9b7c-eba843cb567b)
 
 
-We created a special cybersecurity Systematization of Knowledge for Solana applications and protocols. We call it the Solana Security Strategy: a database that would be hugely beneficial for anyone who wants to secure their product and learn how to approach security strategy from the best-collected resources.
+We are systematizing everything we know about Solana security into one structured resource: the Solana Security Strategy. It’s a field-tested knowledge base for teams building serious products — packed with practical guidance, reference links, and strategy templates.
 
 If you are looking to get a personalized security roadmap developed for your Solana application - schedule a meeting with [Rektoff](https://www.rektoff.xyz/) today: [https://cal.com/rektoff](https://cal.com/rektoff)
 
