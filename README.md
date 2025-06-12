@@ -5,8 +5,6 @@
 
 We are systematizing everything we know about Solana security into one structured resource: the Solana Security Strategy. It’s a field-tested knowledge base for teams building serious products — packed with practical guidance, reference links, and strategy templates.
 
-If you are looking to get a personalized security roadmap developed for your Solana application - schedule a meeting with [Rektoff](https://www.rektoff.xyz/) today: [https://cal.com/rektoff](https://cal.com/rektoff)
-
 ## ⚫️ Security Strategy Overview
 
 We've mapped security strategy into 3 main stages:
