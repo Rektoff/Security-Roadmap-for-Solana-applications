@@ -49,7 +49,7 @@ Solana's account-based programming model introduces unique attack surfaces where
 ### DevSecOps Pipeline + Operational Security
 
 - **Hardware keys for production systems**
-  - [Best Hardware Securit Keys](https://www.pcmag.com/picks/best-hardware-security-keys)
+  - [Best Hardware Security Keys](https://www.pcmag.com/picks/best-hardware-security-keys)
   - Use Semi-Airgapped Device (This explainw what an airgap device is: [AIRGAP Device](https://bitcoinmagazine.com/technical/why-use-an-air-gapped-computer-bitcoin)) - A Semi-Airgapped device is a device that can connect to network when needed and that does not have any app installed other than the ones intended for production work.
 
 - **Secure your social media accounts against sim-swap and other attacks:**
